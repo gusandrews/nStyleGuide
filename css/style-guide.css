@@ -843,13 +843,13 @@ section:nth-of-type(6) h2::before {
   background: #0d0d0d;
 }
 .cd-colors li:nth-of-type(3) .cd-color-swatch {
-  background: #e4655f;
+  background: #275330;
 }
 .cd-colors li:nth-of-type(3) .cd-color-swatch::before {
-  background: #e87a75;
+  background: #1f6241;
 }
 .cd-colors li:nth-of-type(3) .cd-color-swatch::after {
-  background: #e05049;
+  background: #b2f85a;
 }
 .cd-colors li:nth-of-type(4) .cd-color-swatch {
   background: #e6e6e6;
