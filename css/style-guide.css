@@ -828,7 +828,7 @@ section:nth-of-type(6) h2::before {
   background: #000d3c;
 }
 .cd-colors li:nth-of-type(1) .cd-color-swatch::before {
-  background: #759de8;
+  background: #002050;
 }
 .cd-colors li:nth-of-type(1) .cd-color-swatch::after {
   background: #497fe0;
